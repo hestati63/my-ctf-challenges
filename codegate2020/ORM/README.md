@@ -45,10 +45,10 @@ execution.
 Another bug is also layed on the tty's read logic. The code misuses the
 `translate_addr` function. This results you to get heap overflow.
 
-The remaining steps are quite trivial.
+The remaining steps are simple.
 You can leak the base of the binary by partially overwriting the `region->base`.
 After leaking the base, you also get the base of libc as same way.
-Since there are function pointers on the heap, i.e. region->cb->cb_head, you
+Since there are function pointers on the heap, i.e. `region->cb->cb_head`, you
 can get the shell by jumping into the oneshot gadgets in the libc.
 
 For more detail, you can refer `phase2.py`.
