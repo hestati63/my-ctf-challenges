@@ -11,19 +11,19 @@
 * [libfilesys](https://github.com/kaishack/sctf2017/tree/master/defense/FS) (Defense)
 
 ## SCTF2018-Qual
-* [Through The Router](https://github.com/kaishack/sctf2018_qual/tree/master/attack/Through_The_Router) (Attack / Misc)
+* [Through The Router](https://github.com/kaishack/sctf2018_qual/tree/master/attack/Through_The_Router) (Attack / Misc, `collaborate`) 
 * [DungeonQuest](https://github.com/kaishack/sctf2018_qual/tree/master/attack/DungeonQuest) (Attack / Pwn)
 * [WebCached](https://github.com/kaishack/sctf2018_qual/tree/master/attack/WebCached) (Attack / Web)
-* [SDN-Not Open Network](https://github.com/kaishack/sctf2018_qual/tree/master/defense/SDN-NotOpenNetwork) (Defense)
+* [SDN-Not Open Network](https://github.com/kaishack/sctf2018_qual/tree/master/defense/SDN-NotOpenNetwork) (Defense, `collaborate`)
 * [λ: Beauty](https://github.com/kaishack/sctf2018_qual/tree/master/coding/Lambda_Beauty) (Misc)
-* [What does the drone say?](https://github.com/kaishack/sctf2018_qual/tree/master/coding/What_does_the_drone_say%3F) (Misc)
+* [What does the drone say?](https://github.com/kaishack/sctf2018_qual/tree/master/coding/What_does_the_drone_say%3F) (Misc, `collaborate`)
 
 ## SCTF2018-Final
 * [R-diary](https://github.com/kaishack/sctf2018/tree/master/attack/R-diary) (Attack / Web)
-* [Speculator](https://github.com/kaishack/sctf2018/tree/master/reversing/Speculator) (Rev)
-* [Ghost in the Speculator](https://github.com/kaishack/sctf2018/tree/master/attack/Ghost_in_the_Speculator)
-* [SDN-Scan](https://github.com/kaishack/sctf2018/tree/master/defense/SDN-Scan) (Defense)
-* [SDN-Flood](https://github.com/kaishack/sctf2018/tree/master/defense/SDN-Flood) (Defense)
+* [Speculator](https://github.com/kaishack/sctf2018/tree/master/reversing/Speculator) (Rev, `collaborate`)
+* [Ghost in the Speculator](https://github.com/kaishack/sctf2018/tree/master/attack/Ghost_in_the_Speculator) (Attack / Pwn, `collaborate`)
+* [SDN-Scan](https://github.com/kaishack/sctf2018/tree/master/defense/SDN-Scan) (Defense, `collaborate`)
+* [SDN-Flood](https://github.com/kaishack/sctf2018/tree/master/defense/SDN-Flood) (Defense, `collaborate`)
 * [λ: Power](https://github.com/kaishack/sctf2018/tree/master/coding/Lambda_Power) (Misc)
 * [MultiLingual](https://github.com/kaishack/sctf2018/tree/master/coding/MultiLingual) (Misc)
 
