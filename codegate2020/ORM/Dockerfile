@@ -14,10 +14,10 @@ RUN chmod 1733 /tmp /var/tmp /dev/shm
 
 # Additional configuration
 RUN adduser --disabled-login --gecos '' $user
-ADD ./binary_flag/orm /home/$user/orm
-ADD ./binary_flag/chal.ormb /home/$user/chal.ormb
-ADD ./binary_flag/orm-flag /home/$user/flag
-ADD ./binary_flag/run.sh /home/$user/run.sh
+ADD ./bins/orm /home/$user/orm
+ADD ./bins/chal.ormb /home/$user/chal.ormb
+ADD ./bins/orm-flag /home/$user/flag
+ADD ./bins/run.sh /home/$user/run.sh
 ADD ./xinetd.conf /etc/xinetd.d/chal
 
 RUN chown -R root:root /home/$user/
