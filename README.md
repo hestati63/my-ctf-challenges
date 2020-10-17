@@ -31,3 +31,12 @@
 * [ORM-app](./codegate2020/ORM) (Pwn)
 * [ORM](./codegate2020/ORM) (Pwn)
 * [RS](./codegate2020/RS) (Rev)
+
+# Cyberoc2020-Qual
+* Fisher (Web)
+* Intranet (Web)
+
+# Cyberoc2020-Final
+* Unpublic Library (Pwn)
+* Unauthorized (Web)
+* Rusty Metal (Pwn)
